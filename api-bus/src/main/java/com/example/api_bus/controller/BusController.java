@@ -5,6 +5,7 @@ import com.example.api_bus.repository.BusRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+@CrossOrigin(origins = "http://localhost:5173")
 @RestController
 @RequestMapping("/bus")
 public class BusController {

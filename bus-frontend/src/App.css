@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+
+
+.mi-tabla {
+  border:2px solid black;
+}
+.mi-tabla th {
+  padding : 8px;
+  border : 1px solid black;
+}
+.mi-tabla td {
+  padding : 8px;
+  border : 1px solid black;
+}
